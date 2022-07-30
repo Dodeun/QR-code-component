@@ -19,12 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](my_design/my-desktop-design.png)
-![](my_designdesign/my-mobile-design.png)
+![Desktop Design](my_design/my-desktop-design.png)
+![Mobile Design](my_design/my-mobile-design.png)
 
 ### Links
 
-- Live Site URL: <a href="https://qr-code-component.dodeun.com/" target="_blank">QR component solution</a>
+- Live Site URL: [QR code component solution](https://qr-code-component.dodeun.com/)
 
 ## My process
 
